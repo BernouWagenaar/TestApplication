@@ -8,6 +8,7 @@
 		/// <param name="args"></param>
 		static void Main(string[] args)
 		{
+			System.Console.WriteLine("Hello World!");
 		}
 	}
 }
