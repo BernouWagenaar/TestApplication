@@ -1,4 +1,6 @@
-﻿namespace TestApplication
+﻿using System;
+
+namespace TestApplication
 {
 	class Program
 	{
@@ -8,8 +10,8 @@
 		/// <param name="args"></param>
 		static void Main(string[] args)
 		{
-			//Commentaar
-			System.Console.WriteLine("Hello World!");
+			Console.WriteLine("Hello World!");
+			Console.ReadKey();
 		}
 	}
 }
