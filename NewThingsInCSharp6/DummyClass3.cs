@@ -9,5 +9,6 @@ namespace NewThingsInCSharp6
 	class DummyClass3
 	{
 		public int MyProperty { get; set; }
+		public int MyProperty2 { get; set; }
 	}
 }
