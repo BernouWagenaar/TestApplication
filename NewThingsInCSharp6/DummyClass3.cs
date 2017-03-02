@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace NewThingsInCSharp6
 {
-	class DummyClass2
+	class DummyClass3
 	{
+		public int MyProperty { get; set; }
 	}
 }
