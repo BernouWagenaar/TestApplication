@@ -8,5 +8,6 @@ namespace NewThingsInCSharp6
 {
 	class DummyClass
 	{
+		public int MyProperty { get; set; }
 	}
 }
